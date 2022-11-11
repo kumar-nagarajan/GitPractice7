@@ -9,6 +9,7 @@ System.out.println("this is new method");
 }
 public void NewTest2() {
 System.out.println("this is new for remote");	
+System.out.println("this is new code from gitHub");	
 }
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
